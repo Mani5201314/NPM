@@ -1,0 +1,82 @@
+.ProtopColor {
+  padding: 5px 0;
+  border-width: 15px 0 0;
+  background: linear-gradient(to right, #e02aff, #c12127, #ff4b01, #fb8817);
+}
+
+.Pro_First {
+  text-align: center;
+}
+
+.Pro_Back {
+  background-image: url(/src/assets/ProImg/background.png);
+}
+.Pro_side {
+  position: absolute;
+  left: 0;
+  top: 130%;
+  width: 25vw;
+}
+
+.Pro_side2 {
+  position: absolute;
+  width: 25vw;
+  right: 0;
+  top: 40%;
+}
+
+.Onbackground {
+  padding-top: 70px;
+}
+.Pro_div1 {
+  padding: 70px;
+}
+.Pro_head {
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  font-size: 6rem;
+  line-height: 1.25;
+  margin: 32px, 0px;
+}
+.Pro-p {
+  font-size: 1.8rem;
+  margin-bottom: 4rem;
+  line-height: 1.5;
+  font-weight: 600;
+  padding: 50px;
+}
+.Pro_button {
+  background: #c12127;
+  border-bottom: solid 5px #fa8717;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  padding-left: 6rem;
+  padding-right: 6rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+.Pro_divs {
+  padding-top: 1rem;
+  padding-bottom: 4rem;
+  margin-left: 370px;
+  margin-right: 370px;
+}
+.Pro_div_head {
+  display: block;
+  font-weight: bold;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  line-height: 1.25;
+  font-size: 1.5rem;
+}
+.Pro_div_p {
+  line-height: 1.5;
+  font-size: 1.2rem;
+}
+
+/* second */
+

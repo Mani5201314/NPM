@@ -1,0 +1,10 @@
+.Home-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 3% 10% 5% 5%;
+}
+#footerapp {
+  color: grey;
+  text-decoration: none;
+}

@@ -1,0 +1,34 @@
+#btn1 {
+  padding: 14px 45px;
+  font-size: 18px;
+  background-color: #ffc329;
+  font-weight: 600;
+  border: none;
+  margin-right: 15px;
+  cursor: pointer;
+  font-family: Poppins, sans-serif;
+  box-sizing: border-box;
+  border-radius: 50px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.4);
+  color: #000000;
+}
+#btn0 {
+  justify-content: center;
+  display: flex;
+
+  padding: 50px 0px 70px 0px;
+}
+#btn2 {
+  margin-left: 15px;
+  padding: 14px 45px;
+  font-size: 18px;
+  background-color: #ffc22903;
+  font-weight: 600;
+  border: 2px solid white;
+  cursor: pointer;
+  font-family: Poppins, sans-serif;
+  box-sizing: border-box;
+  border-radius: 50px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.4);
+  color: #ffffff;
+}

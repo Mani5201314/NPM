@@ -1,0 +1,66 @@
+.Pro_second{
+    
+       background-image: linear-gradient(270deg, rgba(176, 42, 42, 0.16) 0%, rgba(176, 42, 42, 0.56) 18.45%, rgba(176, 42, 42, 0.8) 49.67%, rgba(176, 42, 42, 0.56) 82.52%, rgba(176, 42, 42, 0.196364) 99.7%, rgba(189, 40, 40, 0) 99.71%, rgba(203, 56, 55, 0) 99.72%, rgba(203, 56, 55, 0.16) 99.73%), url(https://static.npmjs.com/attachments/ck3uwdslwmr4gc9740vqxa800-bg-teams.png);
+    text-align: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 8rem ;
+    color: #fff;
+    background-color: #ff6300;
+}
+.ProS_img{
+    width: 280px;
+    padding-top: 6rem;
+}
+.ProS_div {
+  padding-left: 23rem;
+  padding-right: 23rem;
+  /* padding : 23rem; */
+  padding-top: 3rem;
+  
+ 
+}
+
+.ProS_head {
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.25;
+  color: white;
+}
+.ProS_p1 {
+  font-size: 2.25rem;
+  margin-bottom: 2rem;
+  color: white;
+}
+.ProS_p2 {
+  margin-bottom: 2rem;
+  line-height: 1.5;
+  font-family: "Arimo", sans-serif;
+  color: white;
+  font-size: 1.2rem;
+}
+.ProS_btn {
+  font-family: Poppins, sans-serif;
+  background: #cb3837;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  text-decoration: none;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  letter-spacing: .1em;
+  font-weight: 700;
+  font-size: large;
+  border-radius: 9999px;
+ margin-top: 1rem;
+ display: inline-block;
+}

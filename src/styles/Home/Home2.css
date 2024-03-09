@@ -1,0 +1,81 @@
+#bg {
+  background-image: linear-gradient(
+      270deg,
+      rgba(176, 42, 42, 0.16) 0%,
+      rgba(176, 42, 42, 0.56) 18.45%,
+      rgba(176, 42, 42, 0.8) 49.67%,
+      rgba(176, 42, 42, 0.56) 82.52%,
+      rgba(176, 42, 42, 0.196364) 99.7%,
+      rgba(189, 40, 40, 0) 99.71%,
+      rgba(203, 56, 55, 0) 99.72%,
+      rgba(203, 56, 55, 0.16) 99.73%
+    ),
+    url(/src/assets/img/bg1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#text1 {
+  text-align: center;
+  padding-top: 8%;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  font-size: 5rem;
+  line-height: 1.25;
+  color: white;
+}
+#text2 {
+  font-size: 16px;
+  color: white;
+  width: 67%;
+  padding-top: 20px;
+  padding-left: 32%;
+  line-height: 25px;
+}
+#text3 {
+  text-align: center;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  font-size: 2.5rem;
+  padding-top: 20px;
+  padding-left: 29%;
+  width: 70%;
+  line-height: 1.25;
+  color: white;
+}
+#text4 {
+  font-size: 16px;
+  color: white;
+  width: 69%;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 30%;
+  line-height: 25px;
+}
+
+
+
+#middlelogo {
+  margin-top: 50px;
+  text-align: center;
+}
+.home-middle-text {
+  text-align: center;
+  margin-top: 20px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  font-size: 2.3rem;
+  padding-left: 32%;
+  width: 70%;
+}
+.home-middle-text-last {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10%;
+  font-family: Poppins, sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  padding-left: 32%;
+  width: 70%;
+}

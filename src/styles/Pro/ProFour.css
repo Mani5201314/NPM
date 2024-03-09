@@ -1,0 +1,84 @@
+.ProFour_section {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  display: block;
+}
+.ProFour_div1 {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 32rem;
+  display: block;
+}
+.ProFour_h2 {
+  margin-top: 0;
+  line-height: 1.25;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-size: 2.25rem;
+}
+
+.ProFour_div2 {
+  margin-bottom: 2rem;
+  background-color: #f4f4f4;
+  box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.2);
+  display: block;
+}
+.ProFour_div3 {
+  height: 10px;
+  background: linear-gradient(to right, #e02aff, #c12127, #ff4b01, #fb8817);
+}
+.ProFour_div4 {
+  padding: 2rem;
+}
+.ProFour_div5 {
+  color: #c12127;
+  width: 60px;
+  height: 60px;
+  border: solid 3px transparent;
+  background-image: linear-gradient(white, white),
+    linear-gradient(to top, #e02aff, #c12127, #ff4b01, #fb8817);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  line-height: calc(60px - 6px);
+  vertical-align: middle;
+  border-radius: 9999px;
+  box-shadow: 0 0.2rem 0.3rem rgba(0, 0, 0, 0.5);
+  font-size: 2.25rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  display: inline-block;
+}
+
+.ProFour_h3 {
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.ProFour_div6 {
+  line-height: 1.5;
+}
+.ProFour_Link {
+  color: #c12127;
+      background-color: transparent;
+          cursor: pointer;
+    text-decoration: underline;
+}
